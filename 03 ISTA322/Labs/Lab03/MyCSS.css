@@ -1,0 +1,97 @@
+body 
+
+	{
+
+	margin: 96pt; 
+
+	background-color: #ddddff;
+
+	border: #3333ff inset 12px;
+
+	padding: 24px;
+
+	}
+
+p{
+
+	text-indent: 36px;
+
+	text-align: justify;
+
+	}
+
+a:link 
+
+{
+
+	font-size: 18pt;
+
+	font-family: fantasy;
+
+}
+
+
+
+a:visited
+
+{
+
+	font-size: 18pt;
+
+	color: white;
+
+	font-family: fantasy;
+
+}
+
+a:hover
+
+{
+
+	font-size: 28pt;
+
+	font-family: monospace;
+
+}
+
+.odds 
+
+{
+
+	font-family: serif;
+
+	font-variant: small-caps;
+
+	font-size: 24;
+
+	text-align: center;
+
+}
+
+
+
+#second 
+
+{
+
+	color: #aaffaa;
+
+	font-weight: 900;
+
+	background-color: magenta;
+
+}
+
+
+
+#fourth 
+
+{
+
+	color: magenta;
+
+	font-weight: 900;
+
+	background-color: #aaffaa;
+
+}
